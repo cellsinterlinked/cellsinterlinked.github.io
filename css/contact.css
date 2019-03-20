@@ -1,0 +1,11 @@
+#contact {
+    background: var(--black);
+}
+#contactme {
+    font-family: 'Cinzel', serif;
+    text-decoration: underline;
+    color: white;
+}
+.dumb {
+    color: white;
+}

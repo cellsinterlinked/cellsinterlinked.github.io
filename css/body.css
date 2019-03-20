@@ -1,0 +1,6 @@
+body {
+    background: var(--brown);
+}
+.divider {
+    height: 300px;
+}

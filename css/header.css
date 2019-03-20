@@ -1,0 +1,28 @@
+.jumbotron {
+    background: no-repeat;
+    height:90vh;
+    color: white;
+}
+.lead {
+    text-align: center;
+
+}
+.display-4 {
+    text-align: center;
+}
+.parax {
+    background: url('../assets/img/photo-1492563817904-5f1dc687974f.jpeg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#myname {
+    text-decoration: underline overline;
+    font-family: 'Cinzel', serif;
+    margin-top: 25%;
+}
+#developer {
+    font-family: 'Cinzel', serif;
+    text-decoration: underline;
+    
+}

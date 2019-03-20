@@ -1,0 +1,11 @@
+#navbarNav {
+    font-family: 'Cinzel', serif; 
+}
+
+.navbar-brand {
+    font-family: 'Cinzel', serif;
+    font-size: 24pt;
+}
+.navbar {
+    opacity: 0.7;
+}

@@ -1,0 +1,11 @@
+#abouttitle {
+    text-align: center;
+
+}
+#about h1  {
+    font-family: 'Cinzel', serif;
+    text-decoration: underline;
+}
+#about p {
+    font-family: 'Cinzel', serif;
+}
