@@ -1,6 +1,6 @@
 .jumbotron {
     background: no-repeat;
-    height:90vh;
+    height:100vh;
     color: white;
 }
 .lead {
@@ -20,6 +20,7 @@
     text-decoration: underline overline;
     font-family: 'Cinzel', serif;
     margin-top: 25%;
+    
 }
 #developer {
     font-family: 'Cinzel', serif;
